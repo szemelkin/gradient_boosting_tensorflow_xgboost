@@ -9,7 +9,7 @@ feather-format==0.4.0
 funcsigs==1.0.2
 futures==3.1.1
 html5lib==0.9999999
-ipython==5.5.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 Markdown==2.6.9
 matplotlib==2.1.0
